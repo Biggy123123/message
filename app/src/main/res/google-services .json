@@ -1,0 +1,47 @@
+ {
+  "project_info": {
+    "project_number": "47231621903",
+    "project_id": "message-ed517",
+    "storage_bucket": "message-ed517.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47231621903:android:df562dd573615b407abc7a",
+        "android_client_info": {
+          "package_name": "com.morisseau.message"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47231621903-1e51r4rro4ft9klpmsr55uo0u2gdnlvq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.morisseau.message",
+            "certificate_hash": "05a986996c10402208e653460ea17914e5d66fb3"
+          }
+        },
+        {
+          "client_id": "47231621903-hec3k29h8k9ou8lbc3ri3t11rgrk551u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu4Soz_lr1jn039GZwsVb9zKscbw53Hic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47231621903-hec3k29h8k9ou8lbc3ri3t11rgrk551u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
